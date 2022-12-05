@@ -74,7 +74,24 @@ Useful guides
 - [xDAI Faucet](https://gnosisfaucet.com/) - This faucet is the official xDAI faucet for Gnosis Chain.
 - [Gnosis Chain xDAI Providers Aggregator](https://buyxdai.com/) - Purchase xDAI and GNO with fiat or crypto from trusted providers.
 - [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Find your Gnosis Chain wallet
+- [Gnosis Chain Metrics Dashboard](https://www.gnosismetrics.com/) - Explore relevant analytics and metrics across the Gnosis Chain ecosystem.
 
+</details>
+
+
+<details>
+  <summary>
+    📝 Official Websites/ Socials
+  </summary>
+
+<br />
+
+- [Gnosis Chain Website](https://www.gnosis.io/)
+- [Gnosis Chain Discord](https://discord.gg/gnosischain)
+- [Gnosis Chain Community Channel on Telegram](https://t.me/gnosischain)
+- [Gnosis Builders Website](https://www.gnosis.builders/)
+- [Gnosis Builders Twitter](https://twitter.com/gnosisbuilders)
+- [Gnosis Builders on Youtube](https://www.youtube.com/@gnosisbuilders)
 
 </details>
 
