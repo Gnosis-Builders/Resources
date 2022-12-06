@@ -16,6 +16,9 @@
 <a href="https://github.com/Gnosis-Builders/Resources/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="This repository is released under the MIT license." />
   </a>
+<a href="https://github.com/Gnosis-Builders/Resources/blob/master/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  </a>
 </p>
 
 <h3 align="center">  
