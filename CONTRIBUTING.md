@@ -20,6 +20,10 @@ We use GitHub issues to track public bugs. Please ensure your description is
 clear and has sufficient instructions to be able to reproduce the issue.
 
 
+## Good First Issues
+We have a list of [good first issues](https://github.com/Gnosis-Builders/Resources/labels/good%20first%20issue). This is a great place to get started, gain experience, and get familiar with our contribution process.
+
+
 ## License
 By contributing to Gnosis Builders Resources, you agree that your contributions will be licensed
 under the LICENSE file in the root directory of this source tree.
