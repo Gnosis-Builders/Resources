@@ -87,11 +87,14 @@ Useful guides
 <br />
 
 - [Gnosis Chain Website](https://www.gnosis.io/)
+- [Gnosis Chain Official Documentation](https://docs.gnosischain.com/)
 - [Gnosis Chain Discord](https://discord.gg/gnosischain)
 - [Gnosis Chain Community Channel on Telegram](https://t.me/gnosischain)
 - [Gnosis Builders Website](https://www.gnosis.builders/)
+- [Gnosis Builders Blog](https://www.gnosis.builders/gnosis-builders-blog)
 - [Gnosis Builders Twitter](https://twitter.com/gnosisbuilders)
 - [Gnosis Builders on Youtube](https://www.youtube.com/@gnosisbuilders)
+
 
 </details>
 
