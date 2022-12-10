@@ -5,7 +5,9 @@ This tutorial will show how to run a Gnosis Validator at Home. Because this tuto
 This tutorial is available in [English](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-at-Home), [Vietnamese](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-at-Home/locales/VN).
 
 ### 1. Create a Docker droplet on Cloud Service
-Based on the [Beacon Chain Node Requirement](https://docs.gnosischain.com/node/consensus-layer-validator#beacon-chain-node-requirements), you need a machine equipped with an SSD because HDD is too slow. The recommended droplet that used in this tutorial is 32 GB Memory / 600 GB Disk - Ubuntu 22.10 x64
+Regarding the [Requirement for Running a Node from Gnosis Chain Official Document](https://docs.gnosischain.com/node/#requirements), we recommend your node having a CPU with at least 4 threads, at least 16 GB of RAM and NVMe SSD (preferred) or SATA SSD. 
+
+The recommended droplet that used in this tutorial is 32 GB Memory / 600 GB Disk - Ubuntu 22.10 x64
 
 ### 2. Connect to your droplet
 Copy ipv4 address of your droplet. Open the terminal and type `ssh root@<YOUR_DROPLET_IPV4_ADDRESS>`
