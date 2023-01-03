@@ -23,7 +23,24 @@ Script Installation
 
 ```sudo wget -O - https://installer.dappnode.io | sudo bash```
 
-### 4. Install VPN - Wireguard VPN
+### 4. Initialize DAppNode aliases
+Once DAppNode has been successfully started in your machine, run `dappnode_help` to see the full list of commands available. If running `dappnode_help` shows command not found, you will need to add these aliases.
+```
+$ alias
+alias dappnode_connect='docker exec -ti DAppNodeCore-vpn.dnp.dappnode.eth getAdminCredentials'
+alias dappnode_get='docker exec -t DAppNodeCore-vpn.dnp.dappnode.eth vpncli get'
+alias dappnode_help='echo -e "\n\tDAppNode commands available:\n\n\tdappnode_help\t\tprints out this message\n\n\tdappnode_wifi\t\tget wifi credentials (SSID and password)\n\n\tdappnode_openvpn\tget Open VPN credentials\n\n\tdappnode_wireguard\tget Wireguard VPN credentials (dappnode_wireguard --help for more info)\n\n\tdappnode_connect\tcheck connectivity methods available in DAppNode\n\n\tdappnode_status\t\tget status of dappnode containers\n\n\tdappnode_start\t\tstart dappnode containers\n\n\tdappnode_stop\t\tstop dappnode containers\n"'
+alias dappnode_openvpn='docker exec -i DAppNodeCore-vpn.dnp.dappnode.eth getAdminCredentials'
+alias dappnode_openvpn_get='docker exec -i DAppNodeCore-vpn.dnp.dappnode.eth vpncli get'
+alias dappnode_start='docker-compose $DNCORE_YMLS up -d && docker start $(docker container ls -a -q -f name=DAppNode*)'
+alias dappnode_status='docker-compose $DNCORE_YMLS ps'
+alias dappnode_stop='docker-compose $DNCORE_YMLS stop && docker stop $(docker container ls -a -q -f name=DAppNode*)'
+alias dappnode_wifi='cat /usr/src/dappnode/DNCORE/docker-compose-wifi.yml | grep "SSID\|WPA_PASSPHRASE"'
+alias dappnode_wireguard='docker exec -i DAppNodeCore-api.wireguard.dnp.dappnode.eth getWireguardCredentials'
+alias ls='ls --color=auto'
+```
+
+### 5. Install VPN - Wireguard VPN
 There are various ways to access the DAppNode including local proxy, wifi hotspot, VPN Connections, and CLI. This tutorial shows how to run a Gnosis Validator on the Cloud Service using DAppNode, the VPN method is mostly used while implementing on the Cloud service. OpenVPN and Wireguard are both available. However, this tutorial will show the guide for Wireguard due to the more convenient setup with commands on the Ubuntu VPS and more stable. 
 
 To install Wireguard in Ubuntu, you can follow by these commands:
@@ -50,7 +67,7 @@ Endpoint = <YourPeerEndpoint>
 AllowedIPs = <YourPeerAllowedIPs>
 ```
 
-### 5. Connect to your DAppNode through VPN
+### 6. Connect to your DAppNode through VPN
 Following [the Wireguard installation guide](https://docs.dappnode.io/user-guide/ui/access/vpn/#linux) to install Wireguard on your computer, you need to create wg0 configure file ```sudo nano /etc/wireguard/wg0.conf``` and copy the configure information as above into your configuration file. 
 Finally, you need to use this command to start Wireguard: ```sudo wg-quick up wg0```. The terminal will be shown as below
 
@@ -63,7 +80,7 @@ Then you can visit the http://my.dappnode on your browser as below
 
 You can refer to this guide as [Initial Configurations for the DAppNode](https://docs.dappnode.io/first-steps#)
 
-### 6. Setting up Gnosis Validator on DAppNode
+### 7. Setting up Gnosis Validator on DAppNode
 From the Admin UI, please visit DAppStore and search Gnosis Beacon Chain Prysm.
 
 ![image](https://user-images.githubusercontent.com/23649434/201592661-9111180f-3ab3-49d8-a1ca-c67fa53e5cb2.png)
@@ -76,7 +93,7 @@ You also need to install Nethermind Xdai(Gnosis chain) as maintaining your own e
 
 After installing successfully, the sync status are also available on the Dashboard. We recommend the use of Checkpoint sync to sync your node quickly, and avoid long range attacks. Gnosis provides a checkpoint sync server at [https://checkpoint.gnosischain.com/](https://checkpoint.gnosischain.com/).
 
-### 7. Key Generator
+### 8. Key Generator
 There are two methods for key generators.
 
 1. The first method is using Docker to generate keystores and spin up clients. Based on the official guide of [Step 1) Generate Validator Account(s) and Deposit Data](https://docs.gnosischain.com/node/consensus-layer-validator#step-1-generate-validator-accounts-and-deposit-data). Please follow these commands step by step for generating your Keystores
@@ -114,13 +131,13 @@ Then, you can create validator key files as in the image below.
 ![image](https://user-images.githubusercontent.com/23649434/201820812-5119f61f-c096-4b8d-b4d4-aec960ae7f6f.png)
 
 
-### 8. Configure Keystores to Web3signer Gnosis package on DAppNode
+### 9. Configure Keystores to Web3signer Gnosis package on DAppNode
 Navigate [http://ui.web3signer-gnosis.dappnode/](http://ui.web3signer-gnosis.dappnode/). Then, you need to import keystores from the file that you have created in the previous step.
 Finally, you will have the validator public key as the image below and you can also check your validator public key through the website https://beacon.gnosischain.com/validator/<your_validator_publickey>
 
 ![image](https://user-images.githubusercontent.com/23649434/201821914-47f9279a-91c2-4dc1-9c86-49dbff4cba78.png)
 
-### 9. Claim your validator
+### 10. Claim your validator
 Once you have the validator public key, you need to claim these validator keys by depositing 1 GNO per validator. Navigate [https://deposit.gnosischain.com/](https://deposit.gnosischain.com/) and connect with your wallet. Then, you need to upload the deposit_data*.json that you generated in section 7.
 
 ![image](https://user-images.githubusercontent.com/23649434/201823454-dd479504-bcc6-4aa2-8ba3-35df0ad4834f.png)
