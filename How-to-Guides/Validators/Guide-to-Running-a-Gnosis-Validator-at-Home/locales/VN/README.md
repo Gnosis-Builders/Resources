@@ -11,7 +11,8 @@ Dựa theo [Beacon Chain Node Requirement](https://docs.gnosischain.com/node/co
 Sao chép địa chỉ ipv4 của bạn. Mở terminal và gõ dòng lệnh sau đây `ssh root@<YOUR_DROPLET_IPV4_ADDRESS>`
 
 ### 3. Cài đặt DAppNode
-Dựa theo [installation guide of the DappNode](https://github.com/dappnode/DAppNode), do droplet của bạn chạy trên hệ điều hành Ubuntu, DappNode sẽ được cài đặt bằng các dòng lệnh dựa theo hướng dẫn sau đây [Install DAppNode with scripts](https://github.com/dappnode/DAppNode#install-dappnode-with-scripts) hoặc bạn có thể sử dụng các dòng lệnh sau
+Dựa theo [Cấu hình tối thiểu để chạy node từ tài liệu chính thức](https://docs.gnosischain.com/node/#requirements), node của bạn cần có CPU 4 nhân, 16 GB RAM và NVMe SSD (preferred) hoặc SATA SSD. Cấu hình khuyến nghị để thực hiện theo hướng dẫn này là 32 GB Memory / 600 GB Disk - Ubuntu 22.10 x64.
+
 
 Get Prerequisites
 
@@ -26,7 +27,6 @@ Script Installation
 
 Để cài đặt Wireguard trên Ubuntu, bạn có thể thực hiện những dòng lệnh sau:
 ```
-sudo apt install openresolv
 sudo apt install wireguard
 ```
 
