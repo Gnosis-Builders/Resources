@@ -96,7 +96,7 @@ Useful guides
 - [Gnosis Builders Website](https://www.gnosis.builders/)
 - [Gnosis Builders Blog](https://www.gnosis.builders/gnosis-builders-blog)
 - [Gnosis Builders Twitter](https://twitter.com/gnosisbuilders)
-= [Gnosis Builders Community on Telegram](https://t.me/GnosisBuildersCommunity)
+- [Gnosis Builders Community on Telegram](https://t.me/GnosisBuildersCommunity)
 - [Gnosis Builders on Youtube](https://www.youtube.com/@gnosisbuilders)
 
 
