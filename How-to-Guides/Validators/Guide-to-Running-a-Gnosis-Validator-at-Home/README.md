@@ -91,7 +91,7 @@ The image below shows the configured settings
 
 You also need to install Nethermind Xdai(Gnosis chain) as maintaining your own execution client.
 
-After installing successfully, the sync status are also available on the Dashboard. We recommend the use of Checkpoint sync to sync your node quickly, and avoid long range attacks. Gnosis provides a checkpoint sync server at [https://checkpoint.gnosischain.com/](https://checkpoint.gnosischain.com/).
+After installing successfully, the sync status are also available on the Dashboard. We recommend the use of Checkpoint sync to sync your node quickly, and avoid long range attacks. You can use checkpoint sync server at [https://checkpoint.gnosischain.com/](https://checkpoint.gnosischain.com/) provided by Gnosis or [https://checkpoint-sync-gnosis.dappnode.io/](https://checkpoint-sync-gnosis.dappnode.io/) provided by DAppNode.
 
 ### 8. Key Generator
 There are two methods for key generators.
@@ -132,6 +132,8 @@ Then, you can create validator key files as in the image below.
 
 
 ### 9. Configure Keystores to Web3signer Gnosis package on DAppNode
+Regarding the new version of DAppNode, you can install the Web3Signer using the following documentation [https://docs.dappnode.io/user/guides/validation-muticlient/](https://docs.dappnode.io/user/guides/validation-muticlient
+
 Navigate [http://ui.web3signer-gnosis.dappnode/](http://ui.web3signer-gnosis.dappnode/). Then, you need to import keystores from the file that you have created in the previous step.
 Finally, you will have the validator public key as the image below and you can also check your validator public key through the website https://beacon.gnosischain.com/validator/<your_validator_publickey>
 
