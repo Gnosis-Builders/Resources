@@ -64,6 +64,7 @@ Useful workshop materials.
 Useful guides
 
 - [Guide to Running a Gnosis Validator at Home](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-at-Home)
+- [Guide to Running a Gnosis Validator on Stereum](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-on-Stereum)
 
 </details>
 
