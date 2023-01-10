@@ -1,6 +1,6 @@
-# Guide to Running a Gnosis Validator at Home
+# Guide to Running a Gnosis Validator on DAppNode
 
-This tutorial will show how to run a Gnosis Validator at Home. Because this tutorial is implemented on a Cloud server as an example, you can implement it by using the same method with your hardware at home.
+This tutorial will show how to run a Gnosis Validator on DAppNode. Because this tutorial uses a cloud server as an example, you may use your own hardware at home to implement it by following the same procedure.
 
 This tutorial is available in [English](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-at-Home), [Vietnamese](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-at-Home/locales/VN).
 
@@ -13,7 +13,7 @@ The recommended droplet that used in this tutorial is 32 GB Memory / 600 GB Disk
 Copy ipv4 address of your droplet. Open the terminal and type `ssh root@<YOUR_DROPLET_IPV4_ADDRESS>`
 
 ### 3. Install DAppNode
-According the [installation guide of the DappNode](https://github.com/dappnode/DAppNode), because droplet is running on the Ubuntu, DappNode will be installed with scripts by following these commands in [Install DAppNode with scripts](https://github.com/dappnode/DAppNode#install-dappnode-with-scripts) as below
+According the [installation guide of the DAppNode](https://github.com/dappnode/DAppNode), because droplet is running on the Ubuntu, DAppNode will be installed with scripts by following these commands in [Install DAppNode with scripts](https://github.com/dappnode/DAppNode#install-dappnode-with-scripts) as below
 
 Get Prerequisites
 
@@ -152,4 +152,4 @@ Then, you click `Deposit`. Finally, you have successfully created your validator
 The primary purpose of this repository is to continue evolving developments for running a Gnosis Validator. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can participate in improving this tutorial.
 
 ## License
-Guide to Running a Gnosis Validator at Home is [MIT licensed](./LICENSE).
+Guide to Running a Gnosis Validator on DAppNode is [MIT licensed](./LICENSE).

@@ -1,4 +1,4 @@
-# Hướng dẫn triển khai Gnosis Validator Node trên Cloud.
+# Hướng dẫn triển khai Gnosis Validator trên DAppNode
 
 Hướng dẫn này sẽ chỉ ra cách chạy Gnosis Validator tại nhà. Vì hướng dẫn này được thực hiện trên dịch vụ đám mấy như là một ví dụ, vậy nên bạn có thể thực hiện nó bằng phương pháp tương tự với phần cứng của bạn ở nhà.
 
