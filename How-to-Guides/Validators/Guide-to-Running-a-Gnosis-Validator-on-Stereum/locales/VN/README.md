@@ -136,7 +136,7 @@ Stereum sẽ tự động cài đặt các dịch vụ và ứng dụng khách c
 
 <img width="1055" alt="Untitled 4" src="https://user-images.githubusercontent.com/51161692/211514666-6e01f5eb-a26c-4843-bf03-02f8d136a226.png">
 
-Bạn có thể dồng bộ node của bạn với đường dẫn đồng bộ. Bạn có thể lựa chọn server https://checkpoint.gnosischain.com/ cung cấp bởi Gnosis or https://checkpoint-sync-gnosis.dappnode.io/ cung cấp bởi DAppNode. Sau đó, chọn Next
+Bạn có thể dồng bộ node của bạn với đường dẫn đồng bộ. Bạn có thể lựa chọn server https://checkpoint.gnosischain.com/ cung cấp bởi Gnosis hoặc https://checkpoint-sync-gnosis.dappnode.io/ cung cấp bởi DAppNode. Sau đó, chọn Next
 
 <img width="1055" alt="Untitled 4" src="https://user-images.githubusercontent.com/23649434/211530109-d5ed75e3-be81-4695-87f5-1ddb0d6a4442.png">
 
