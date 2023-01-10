@@ -2,7 +2,7 @@
 
 Hướng dẫn này sẽ chỉ ra cách chạy Gnosis Validator tại nhà. Vì hướng dẫn này được thực hiện trên dịch vụ đám mấy như là một ví dụ, vậy nên bạn có thể thực hiện nó bằng phương pháp tương tự với phần cứng của bạn ở nhà.
 
-Hướng dẫn này có phiên bản [tiếng Anh](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-at-Home), [tiếng Việt](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-at-Home/locales/VN).
+Hướng dẫn này có phiên bản [tiếng Anh](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-on-DAppNode), [tiếng Việt](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-on-DAppNode/locales/VN).
 
 ### 1. Tạo Docker Droplet trên Cloud Server
 Dựa theo [Beacon Chain Node Requirement](https://docs.gnosischain.com/node/consensus-layer-validator#beacon-chain-node-requirements), bạn cần cài đặt một máy tính với SSD do tốc độ chậm của HDD. Cấu hình khuyến nghị để thực hiện theo hướng dẫn này là 32 GB Memory / 600 GB Disk - Ubuntu 22.10 x64

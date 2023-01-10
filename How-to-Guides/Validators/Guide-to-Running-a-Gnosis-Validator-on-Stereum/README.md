@@ -94,7 +94,7 @@ Coming soon!
 
 #### Step 2: Create & Setup Droplets
 
-Select a virtual machine to run your stereum on. Following the recommended setup, we will run a droplet that is closest to our region (i.e. London) with **4 Core CPU**, **32GB RAM,** **900GB SSD Storage & Ubuntu**.
+Select a virtual machine to run your Stereum on. Following the recommended setup, we will run a droplet that is closest to our region (i.e. London) with **4 Core CPU**, **32GB RAM,** **900GB SSD Storage & Ubuntu**.
 
 For authentication, we will choose Password option.
 
@@ -102,7 +102,7 @@ For authentication, we will choose Password option.
 
 # Stereum Launcher
 
-Once the server has been set up and running, we will now download the Stereum Launcher from [stereum.net](http://stereum.net) to set up our server. Download stereum according to the OS that your machine is running (Mac, Windows & Linux).
+Once the server has been set up and running, we will now download the Stereum Launcher from [stereum.net](http://stereum.net) to set up our server. Download Stereum according to the OS that your machine is running (Mac, Windows & Linux).
 
 ## Step 1: Connecting to Server
 
@@ -151,7 +151,7 @@ The installation will start automatically. Wait for the installation to be done 
 
 # Setup Validator for Gnosis Chain
 
-Now that you have set up and configured your stereum on your dedicated machine, it’s time to set up your validator so that you can start validating for Gnosis.
+Now that you have set up and configured your Stereum on your dedicated machine, it’s time to set up your validator so that you can start validating for Gnosis.
 
 ## Step 1: Generate Validator Keys
 
@@ -159,7 +159,7 @@ To begin validating for Gnosis, you will need to generate a validator private ke
 
 ## Step 2: Upload your Validator Keys to Stereum
 
-We will now upload the keystone files generated in the previous step into your stereum node. On the top left-hand menu, select STAKING. You can either click or drag your keystore.json file into the window to load your keystore files. 
+We will now upload the keystone files generated in the previous step into your Stereum node. On the top left-hand menu, select STAKING. You can either click or drag your keystore.json file into the window to load your keystore files. 
 
 ![Untitled 8](https://user-images.githubusercontent.com/51161692/211514963-99055c7d-71d3-4956-b031-caa5b87c906c.png)
 
@@ -171,7 +171,7 @@ Once done, your keys will start to load.
 
 ![Untitled 10](https://user-images.githubusercontent.com/51161692/211515065-0f518e48-7a9a-4cf7-b96e-33e5999ae20a.png)
 
-Congratulations! Your keystores has been loaded on your stereum node.
+Congratulations! Your keystores has been loaded on your Stereum node.
 
 ![Untitled 11](https://user-images.githubusercontent.com/51161692/211515114-7ed5318e-349a-4be3-a839-14f72908fb66.png)
 

@@ -2,7 +2,7 @@
 
 This tutorial will show how to run a Gnosis Validator on DAppNode. Because this tutorial uses a cloud server as an example, you may use your own hardware at home to implement it by following the same procedure.
 
-This tutorial is available in [English](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-at-Home), [Vietnamese](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-at-Home/locales/VN).
+This tutorial is available in [English](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-on-DAppNode), [Vietnamese](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-on-DAppNode/locales/VN).
 
 ### 1. Create a Docker droplet on Cloud Service
 Regarding the [Requirement for Running a Node from Gnosis Chain Official Document](https://docs.gnosischain.com/node/#requirements), we recommend your node having a CPU with at least 4 threads, at least 16 GB of RAM and NVMe SSD (preferred) or SATA SSD. 
