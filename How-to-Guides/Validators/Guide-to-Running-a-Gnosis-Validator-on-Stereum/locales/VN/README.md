@@ -1,4 +1,7 @@
-# Table of Contents
+# Hướng dẫn triển khai Gnosis Validator trên Stereum
+
+## Mục lục
+
 <details>
   <summary> <a href="#about-stereum">Stereum</a></summary>
 </details>
@@ -137,7 +140,7 @@ Bạn có thể dồng bộ node của bạn với đường dẫn đồng bộ.
 
 <img width="1055" alt="Untitled 4" src="https://user-images.githubusercontent.com/23649434/211530109-d5ed75e3-be81-4695-87f5-1ddb0d6a4442.png">
 
-Click Next after verifying the services and clients that Stereum are installing.
+Nhấp vào Next sau khi xác minh các dịch vụ mà Stereum đang cài đặt.
 
 <img width="1051" alt="Untitled 5" src="https://user-images.githubusercontent.com/51161692/211514724-6f5a4b07-4d3c-4385-8eca-06fa3170b080.png">
 

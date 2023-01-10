@@ -1,4 +1,7 @@
-# Table of Contents
+# Guide to Running a Gnosis Validator on Stereum
+
+## Table of Contents
+
 <details>
   <summary> <a href="#about-stereum">Stereum</a></summary>
 </details>
