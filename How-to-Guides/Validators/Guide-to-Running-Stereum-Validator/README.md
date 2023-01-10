@@ -129,9 +129,13 @@ Once the option has been selected, select Gnosis under the menu dropdown and sel
 
 <img width="1053" alt="Untitled 3" src="https://user-images.githubusercontent.com/51161692/211514610-8d5b8180-ebd8-4a4e-843e-44cf1dd35862.png">
 
-Stereum will install the necessary services and clients automatically. Click Next.
+Stereum will install the necessary services and clients automatically. In this step, you can sync your client from the beginning of the chain.
 
 <img width="1055" alt="Untitled 4" src="https://user-images.githubusercontent.com/51161692/211514666-6e01f5eb-a26c-4843-bf03-02f8d136a226.png">
+
+You can also sync your client with checkpoint sync url. You can use checkpoint sync server at https://checkpoint.gnosischain.com/ provided by Gnosis or https://checkpoint-sync-gnosis.dappnode.io/ provided by DAppNode. Then, click Next
+
+<img width="1055" alt="Untitled 4" src="https://user-images.githubusercontent.com/23649434/211530109-d5ed75e3-be81-4695-87f5-1ddb0d6a4442.png">
 
 Click Next after verifying the services and clients that Stereum are installing.
 
