@@ -132,9 +132,10 @@ Then, you can create validator key files as in the image below.
 
 
 ### 9. Configure Keystores to Web3signer Gnosis package on DAppNode
-Regarding the new version of DAppNode, you can install the Web3Signer using the following documentation [https://docs.dappnode.io/user/guides/validation-muticlient/](https://docs.dappnode.io/user/guides/validation-muticlient
+Regarding the new version of DAppNode, you can install the Web3Signer using the following documentation [https://docs.dappnode.io/user/guides/validation-muticlient/](https://docs.dappnode.io/user/guides/validation-muticlient)
 
 Navigate [http://ui.web3signer-gnosis.dappnode/](http://ui.web3signer-gnosis.dappnode/). Then, you need to import keystores from the file that you have created in the previous step.
+
 Finally, you will have the validator public key as the image below and you can also check your validator public key through the website https://beacon.gnosischain.com/validator/<your_validator_publickey>
 
 ![image](https://user-images.githubusercontent.com/23649434/201821914-47f9279a-91c2-4dc1-9c86-49dbff4cba78.png)
