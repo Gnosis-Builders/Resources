@@ -91,7 +91,7 @@ Useful guides
   
 <br />
 
-- [Recommended RPC Server Address](https://rpc.gnosis.gateway.fm)
+- Recommended RPC Server Address [https://rpc.gnosis.gateway.fm](https://rpc.gnosis.gateway.fm)
 - [Gnosis Chain Recommended Bootnodes](https://docs.gnosischain.com/about/networks/mainnet/#config-repo)
 
 </details>
