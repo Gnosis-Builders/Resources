@@ -75,13 +75,26 @@ Useful guides
   
 <br />
 
-- [xDAI Faucet](https://gnosisfaucet.com/) - This faucet is the official xDAI faucet for Gnosis Chain.
-- [Gnosis Chain xDAI Providers Aggregator](https://buyxdai.com/) - Purchase xDAI and GNO with fiat or crypto from trusted providers.
-- [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Find your Gnosis Chain wallet
 - [Gnosis Chain Metrics Dashboard](https://www.gnosismetrics.com/) - Explore relevant analytics and metrics across the Gnosis Chain ecosystem.
+- [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Find your Gnosis Chain wallet
+- [Gnosis Chain xDAI Providers Aggregator](https://buyxdai.com/) - Purchase xDAI and GNO with fiat or crypto from trusted providers.
 - [Validate Gnosis](https://www.validategnosis.com/) - Learn how to validate Gnosis! Validate Gnosis provides step-by-step setup guides that walk you through the process to help you get up and running smoothly.
+- [mGNO Validator Deposit](https://mgno.validategnosis.com/) - The mGNO Converter allows users to convert GNO into mGNO. This mGNO token can be staked on validator nodes.
+- [xDAI Faucet](https://gnosisfaucet.com/) - This faucet is the official xDAI faucet for Gnosis Chain.
+
 </details>
 
+<details>
+  <summary>
+    🎊 Recommended Things for Builders
+  </summary>
+  
+<br />
+
+- [Recommended RPC Server Address](https://rpc.gnosis.gateway.fm)
+- [Gnosis Chain Recommended Bootnodes](https://docs.gnosischain.com/about/networks/mainnet/#config-repo)
+
+</details>
 
 <details>
   <summary>
@@ -90,15 +103,15 @@ Useful guides
 
 <br />
 
-- [Gnosis Chain Website](https://www.gnosis.io/)
-- [Gnosis Chain Official Documentation](https://docs.gnosischain.com/)
-- [Gnosis Chain Discord](https://discord.gg/gnosischain)
-- [Gnosis Chain Community on Telegram](https://t.me/gnosischain)
-- [Gnosis Builders Website](https://www.gnosis.builders/)
 - [Gnosis Builders Blog](https://www.gnosis.builders/gnosis-builders-blog)
-- [Gnosis Builders Twitter](https://twitter.com/gnosisbuilders)
 - [Gnosis Builders Community on Telegram](https://t.me/GnosisBuildersCommunity)
+- [Gnosis Builders Twitter](https://twitter.com/gnosisbuilders)
+- [Gnosis Builders Website](https://www.gnosis.builders/)
 - [Gnosis Builders on Youtube](https://www.youtube.com/@gnosisbuilders)
+- [Gnosis Chain Community on Telegram](https://t.me/gnosischain)
+- [Gnosis Chain Discord](https://discord.gg/gnosischain)
+- [Gnosis Chain Official Documentation](https://docs.gnosischain.com/)
+- [Gnosis Chain Website](https://www.gnosis.io/)
 
 
 </details>
