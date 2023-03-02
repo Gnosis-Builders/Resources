@@ -82,7 +82,6 @@ Useful guides
 - [Validate Gnosis](https://www.validategnosis.com/) - Learn how to validate Gnosis! Validate Gnosis provides step-by-step setup guides that walk you through the process to help you get up and running smoothly
 - [mGNO Validator Deposit](https://mgno.validategnosis.com/) - The mGNO Converter allows users to convert GNO into mGNO. This mGNO token can be staked on validator nodes
 - [xDAI Faucet](https://gnosisfaucet.com/) - This faucet is the official xDAI faucet for Gnosis Chain
-- [mGNO Deposit](https://mgno.validategnosis.com/) - Official Gnosis GNO to mGNO convertor
 - [d14n](https://d14n.info/) - Measuring Decentralization for Gnosis Chain and Ethereum
 
 </details>
