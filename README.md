@@ -52,6 +52,7 @@ Useful workshop materials.
 - [Web3 Beginner Workshop #1 - Deploy your First Contract on Gnosis Chain](https://github.com/Gnosis-Builders/gc-workshop)
 - [Web3 Beginner Workshop #2 - Deploying a DAO on Gnosis Chain](https://github.com/Gnosis-Builders/gc-workshops/tree/main/DAO-Tutorial)
 - [Web3 Beginner Workshop #3 - Introduction to Building on Gnosis Chain (Vietnamese)](https://youtu.be/91fF1fL574s)
+- [Gnosis Chain Validator Workshop - How to run validators with Stereum](https://youtu.be/een_pYwCM8I)
 </details>
 
 <details>
@@ -75,12 +76,14 @@ Useful guides
   
 <br />
 
-- [Gnosis Chain Metrics Dashboard](https://www.gnosismetrics.com/) - Explore relevant analytics and metrics across the Gnosis Chain ecosystem.
+- [Gnosis Chain Metrics Dashboard](https://www.gnosismetrics.com/) - Explore relevant analytics and metrics across the Gnosis Chain ecosystem
 - [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Find your Gnosis Chain wallet
-- [Gnosis Chain xDAI Providers Aggregator](https://buyxdai.com/) - Purchase xDAI and GNO with fiat or crypto from trusted providers.
-- [Validate Gnosis](https://www.validategnosis.com/) - Learn how to validate Gnosis! Validate Gnosis provides step-by-step setup guides that walk you through the process to help you get up and running smoothly.
-- [mGNO Validator Deposit](https://mgno.validategnosis.com/) - The mGNO Converter allows users to convert GNO into mGNO. This mGNO token can be staked on validator nodes.
-- [xDAI Faucet](https://gnosisfaucet.com/) - This faucet is the official xDAI faucet for Gnosis Chain.
+- [Gnosis Chain xDAI Providers Aggregator](https://buyxdai.com/) - Purchase xDAI and GNO with fiat or crypto from trusted providers
+- [Validate Gnosis](https://www.validategnosis.com/) - Learn how to validate Gnosis! Validate Gnosis provides step-by-step setup guides that walk you through the process to help you get up and running smoothly
+- [mGNO Validator Deposit](https://mgno.validategnosis.com/) - The mGNO Converter allows users to convert GNO into mGNO. This mGNO token can be staked on validator nodes
+- [xDAI Faucet](https://gnosisfaucet.com/) - This faucet is the official xDAI faucet for Gnosis Chain
+- [mGNO Deposit](https://mgno.validategnosis.com/) - Official Gnosis GNO to mGNO convertor
+- [d14n](https://d14n.info/) - Measuring Decentralization for Gnosis Chain and Ethereum
 
 </details>
 
