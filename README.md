@@ -77,11 +77,11 @@ Useful guides
 <br />
 
 - [Gnosis Chain Metrics Dashboard](https://www.gnosismetrics.com/) - Explore relevant analytics and metrics across the Gnosis Chain ecosystem
-- [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Find your Gnosis Chain wallet
+- [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Easily choose supported wallets based on your preferred parameters
 - [Gnosis Chain xDAI Providers Aggregator](https://buyxdai.com/) - Purchase xDAI and GNO with fiat or crypto from trusted providers
 - [Validate Gnosis](https://www.validategnosis.com/) - Learn how to validate Gnosis! Validate Gnosis provides step-by-step setup guides that walk you through the process to help you get up and running smoothly
 - [mGNO Validator Deposit](https://mgno.validategnosis.com/) - The mGNO Converter allows users to convert GNO into mGNO. This mGNO token can be staked on validator nodes
-- [Gnosis Faucet](https://gnosisfaucet.com/) - This faucet is the official xDai faucet for Gnosis Chain
+- [Gnosis Faucet](https://gnosisfaucet.com/) - This faucet is the official xDai faucet for Gnosis Chain. Access the faucet to get a small amount of xDAI that can get you started in building and deploying transactions on Gnosis Chain
 - [d14n](https://d14n.info/) - Measuring Decentralization for Gnosis Chain and Ethereum
 
 </details>
