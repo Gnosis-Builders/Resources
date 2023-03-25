@@ -94,7 +94,13 @@ Useful guides
 <br />
 
 - Developer Resources [https://docs.gnosischain.com/developers](https://docs.gnosischain.com/developers)
-- Recommended RPC Server Address [https://rpc.gnosis.gateway.fm](https://rpc.gnosis.gateway.fm) and [https://rpc.gnosischain.com/](https://rpc.gnosischain.com/)
+- Recommended RPC Server Address 
+  * Mainnet: 
+    * [https://rpc.gnosis.gateway.fm](https://rpc.gnosis.gateway.fm)
+    * [https://rpc.gnosischain.com/](https://rpc.gnosischain.com/)
+  * Chiado Testnet:
+    * [https://rpc.chiadochain.net/](https://rpc.chiadochain.net/)
+    * [https://rpc.chiado.gnosis.gateway.fm/](https://rpc.chiado.gnosis.gateway.fm/)
 - Gnosis Chain Recommended Bootnodes [https://docs.gnosischain.com/about/networks/mainnet/#config-repo](https://docs.gnosischain.com/about/networks/mainnet/#config-repo)
 - Connect Your Wallet
   * RPC Endpoint: [https://rpc.gnosischain.com/](https://rpc.gnosischain.com/)
