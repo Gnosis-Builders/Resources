@@ -97,16 +97,16 @@ Useful guides
 - Recommended RPC Server Address 
   * Mainnet: 
     * [https://rpc.gnosis.gateway.fm](https://rpc.gnosis.gateway.fm)
-    * [https://rpc.gnosischain.com/](https://rpc.gnosischain.com/)
+    * [https://rpc.gnosischain.com](https://rpc.gnosischain.com)
   * Chiado Testnet:
-    * [https://rpc.chiadochain.net/](https://rpc.chiadochain.net/)
-    * [https://rpc.chiado.gnosis.gateway.fm/](https://rpc.chiado.gnosis.gateway.fm/)
+    * [https://rpc.chiadochain.net](https://rpc.chiadochain.net/)
+    * [https://rpc.chiado.gnosis.gateway.fm](https://rpc.chiado.gnosis.gateway.fm/)
 - Gnosis Chain Recommended Bootnodes [https://docs.gnosischain.com/about/networks/mainnet/#config-repo](https://docs.gnosischain.com/about/networks/mainnet/#config-repo)
 - Connect Your Wallet
-  * RPC Endpoint: [https://rpc.gnosischain.com/](https://rpc.gnosischain.com/)
+  * RPC Endpoint: [https://rpc.gnosischain.com](https://rpc.gnosischain.com/)
   * Chain ID: 100
   * Currency Symbol: xDAI
-  * Explorer: https://gnosisscan.io/
+  * Explorer: https://gnosisscan.io
   * Alternatively you can auto-config your wallet by visiting [https://chainlist.org/chain/100](https://chainlist.org/chain/100)
 
 
