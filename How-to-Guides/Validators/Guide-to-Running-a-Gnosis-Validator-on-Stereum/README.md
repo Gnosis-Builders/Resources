@@ -55,6 +55,9 @@
 <details>
   <summary> <a href="#monitoring-your-validators">Monitoring your Validators</a></summary>
 </details>
+<details>
+  <summary> <a href="https://youtu.be/een_pYwCM8I">Gnosis Chain Validator Workshop - How to run validators with Stereum</a></summary>
+</details>
 
 # About Stereum
 
