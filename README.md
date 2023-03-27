@@ -81,7 +81,7 @@ Useful guides
 - [Gnosis Chain xDAI Providers Aggregator](https://buyxdai.com/) - Purchase xDAI and GNO with fiat or crypto from trusted providers
 - [Validate Gnosis](https://www.validategnosis.com/) - Learn how to validate Gnosis! Validate Gnosis provides step-by-step setup guides that walk you through the process to help you get up and running smoothly
 - [mGNO Validator Deposit](https://mgno.validategnosis.com/) - The mGNO Converter allows users to convert GNO into mGNO. This mGNO token can be staked on validator nodes
-- [Gnosis Faucet](https://gnosisfaucet.com/) - This faucet is the official xDai faucet for Gnosis Chain. Access the faucet to get a small amount of xDAI that can get you started in building and deploying transactions on Gnosis Chain
+- [Gnosis Faucet](https://gnosisfaucet.com/) - This faucet is the official xDai faucet for Gnosis Chain. Access the faucet to get a small amount of xDAI that can get you started in building and deploying transactions on Gnosis Chain. You can claim 0.01 xDAI on Gnosis mainnet and 0.1 xDAI on Chiado testnet via the faucet
 - [d14n](https://d14n.info/) - Measuring Decentralization for Gnosis Chain and Ethereum
 
 </details>
@@ -99,8 +99,8 @@ Useful guides
     * [https://rpc.gnosis.gateway.fm](https://rpc.gnosis.gateway.fm)
     * [https://rpc.gnosischain.com](https://rpc.gnosischain.com)
   * Chiado Testnet:
-    * [https://rpc.chiadochain.net](https://rpc.chiadochain.net/)
     * [https://rpc.chiado.gnosis.gateway.fm](https://rpc.chiado.gnosis.gateway.fm/)
+    * [https://rpc.chiadochain.net](https://rpc.chiadochain.net/)
 - Gnosis Chain Recommended Bootnodes [https://docs.gnosischain.com/about/networks/mainnet/#config-repo](https://docs.gnosischain.com/about/networks/mainnet/#config-repo)
 - Connect Your Wallet
   * RPC Endpoint: [https://rpc.gnosischain.com](https://rpc.gnosischain.com/)
