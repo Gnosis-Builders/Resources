@@ -162,7 +162,7 @@ Useful guides
 
 **[5] Euro Ramp App - Create a Safe app powered by Monerium**
 
-**Project Description:** The Euro Ramp app is a concept for a mobile application that would enable users to purchase, sell, and keep various currencies securely and easily using Monerium, a platform for decentralized payments built on the blockchain. The application would offer a safe and straightforward interface for instantly converting fiat money into digital assets. The Euro Ramp app would be a great tool for anyone interested in investing in Euros or other currencies in a Safe app with a secure way.
+**Project Description:** The Euro Ramp app is a concept for a mobile application that would enable users to purchase, sell, and keep various currencies securely and easily using Monerium, a platform for decentralized payments built on the blockchain. The application would offer a safe and straightforward interface for instantly converting fiat money into digital assets. The Euro Ramp app would be a great tool for anyone interested in investing in Euros or other currencies in a Safe app.
 
 **Resources:**
   * [Monerium](https://monerium.com/)
