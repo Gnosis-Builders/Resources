@@ -184,6 +184,7 @@ Whether you're a developer, a designer, a researcher, or simply someone who is p
 
 So if you have an idea for improving the Gnosis Chain ecosystem, we encourage you to submit a proposal and join us on this exciting journey towards a more decentralized future. Thank you for considering participating in our community!
 
+***
       
 </details>
 
