@@ -47,7 +47,7 @@
   </summary>
 <br />
 
-Useful workshop materials.
+Useful workshop materials
 
 - [Web3 Beginner Workshop #1 - Deploy your First Contract on Gnosis Chain](https://github.com/Gnosis-Builders/gc-workshop)
 - [Web3 Beginner Workshop #2 - Deploying a DAO on Gnosis Chain](https://github.com/Gnosis-Builders/gc-workshops/tree/main/DAO-Tutorial)
@@ -156,7 +156,7 @@ Useful guides
 **Project Description:** Hashi is an EVM Header Oracle Aggregator, designed to facilitate a principled approach to cross-chain bridge security. The primary insight is that the vast majority of bridge-related security incidents could have had a minimal impact if the systems relying on them had built in some redundancy. In other words, it's much more secure to require messages to be validated by multiple independent mechanisms, rather than by just one. This topic allows you to propose your ideas to build on top of an EVM Header Oracle Aggregator.
 
 **Resources:**
-  * [An EVM Header Oracle Aggregator](https://github.com/gnosis/hashi)
+  * [Hashi 橋  - An EVM Header Oracle Aggregator](https://github.com/gnosis/hashi)
 
 ***
 
