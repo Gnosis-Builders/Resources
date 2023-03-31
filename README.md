@@ -125,7 +125,7 @@ Useful guides
 
 **[1] Improving payroll with an EVM programmable bank account**
 
-**Project Description:** This project provides an opportunity to brainstorm solutions to enhance the payroll process using an EVM programmable bank account. This topic lets you start the project by exploring various ideas that can help improve the payroll process. For example, creating a smart contract that validates each employee's hours worked by each employee and calculates their salary accordingly or developing a smart contract that automatically deducts taxes, social security, and other necessary expenses from their income.
+**Project Description:** This project provides an opportunity to brainstorm solutions to enhance the payroll process using an EVM programmable bank account. This topic lets you start the project by exploring various ideas that can help improve the payroll process. For example, creating a smart contract that validates each employee's working hours and calculates their salary accordingly or developing a smart contract that automatically deducts taxes, social security, and other necessary expenses from their income.
 
 **Resources:**
   * [Superfluid Wave Project Ideas](https://superfluidhq.notion.site/Superfluid-Wave-Project-Ideas-7e8c792758004bd2ae452d1f9810cc58)
@@ -134,7 +134,7 @@ Useful guides
 
 **[2] Build with POAP**
 
-**Project Description:** POAP is a hub for Web3-native communities. At POAP, we can help bring your visionary Web3 project to life by identifying the most suitable user base and giving you exposure to expand your community. Plus, building with POAP can take your project to the next level by giving you access to new clients and opportunities to scale your business. Therefore, this topic allows you to propose your own ideas to build on POAP.
+**Project Description:** POAP is a hub for Web3-native communities. At POAP, we can help bring your visionary Web3 project to life by identifying the most suitable user base and giving you exposure to expand your community. Plus, building with POAP can take your project to the next level by giving you access to new clients and opportunities to scale your business. Therefore, this topic allows you to propose your ideas to build on POAP.
 
 **Resources:**
   * [Build with POAP](https://poap.xyz/builders)
@@ -144,7 +144,7 @@ Useful guides
 
 **[3] Open source solutions supporting zkBridge**
 
-**Project Description:** A new approach is put forth by zkBridge for building trustless, extensible, permissionless, universal, and efficient cross-chain bridges using ZKP. This topic allows you to submit your own ideas for creating end-to-end zkBridge solutions across the Gnosis Chain as a public benefit and fostering an open ecosystem for creating a safe, effective, and all-encompassing foundation for multichain interoperability.
+**Project Description:** A new approach is put forth by zkBridge for building trustless, extensible, permissionless, universal, and efficient cross-chain bridges using ZKP. This topic allows you to submit your ideas for creating end-to-end zkBridge solutions across the Gnosis Chain as a public benefit and fostering an open ecosystem for creating a safe, effective, and all-encompassing foundation for multichain interoperability.
 
 **Resources:**
   * [zkBridge track, Berkeley Center for Responsible Decentralized Intelligence](https://zk-hacking.org/tracks/zk_bridge_track/)
@@ -172,7 +172,7 @@ Useful guides
 
 **[6] Connecting Worlds with Li-Fi - Aggregate the best Euro price to Gnosis Chain**
 
-**Project Description:** The concept of "Connecting Worlds with Li-Fi" refers to the potential use of Li-Fi technology to build a global network that connects people and devices across the world. The idea of aggregating the best Euro price to the Gnosis Chain in particular involves utilizing blockchain technology, particularly the Gnosis Chain, to make it possible to exchange Euros securely and decentralized at the best market prices across various nations or areas. Li-Fi is a quick and dependable technology that can send data between devices even when they are far apart, making it ideal for this kind of communication.
+**Project Description:** The concept of "Connecting Worlds with Li-Fi" refers to the potential use of Li-Fi technology to build a global network that connects people and devices across the world. Li-Fi is a quick and dependable technology that can send data between devices even when they are far apart, making it ideal for this kind of communication. The idea of aggregating the best Euro price to the Gnosis Chain in particular involves utilizing blockchain technology to make it possible to exchange Euros securely and decentralized at the best market prices across various nations or areas.
 
 ***
 
