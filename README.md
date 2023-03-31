@@ -144,7 +144,7 @@ Useful guides
 
 **[3] Open source solutions supporting zkBridge**
 
-**Project Description:** A new approach is put forth by zkBridge for building trustless, extensible, permissionless, universal, and efficient cross-chain bridges using ZKP.  This topic allows you to submit your own ideas for creating end-to-end zkBridge solutions across the Gnosis Chain as a public benefit and fostering an open ecosystem for creating a safe, effective, and all-encompassing foundation for multichain interoperability.
+**Project Description:** A new approach is put forth by zkBridge for building trustless, extensible, permissionless, universal, and efficient cross-chain bridges using ZKP. This topic allows you to submit your own ideas for creating end-to-end zkBridge solutions across the Gnosis Chain as a public benefit and fostering an open ecosystem for creating a safe, effective, and all-encompassing foundation for multichain interoperability.
 
 **Resources:**
   * [zkBridge track, Berkeley Center for Responsible Decentralized Intelligence](https://zk-hacking.org/tracks/zk_bridge_track/)
@@ -162,7 +162,7 @@ Useful guides
 
 **[5] Euro Ramp App - Create a Safe app powered by Monerium**
 
-**Project Description:** The Euro Ramp app is a concept for a mobile application that would enable users to purchase, sell, and keep various currencies securely and easily using Monerium, a platform for decentralized payments built on the blockchain. The application would offer a safe and straightforward interface for instantly converting fiat money into digital assets. The Euro Ramp app would be a great tool for anyone interested in investing in Euros or other currencies in a Safe app in a secure way.
+**Project Description:** The Euro Ramp app is a concept for a mobile application that would enable users to purchase, sell, and keep various currencies securely and easily using Monerium, a platform for decentralized payments built on the blockchain. The application would offer a safe and straightforward interface for instantly converting fiat money into digital assets. The Euro Ramp app would be a great tool for anyone interested in investing in Euros or other currencies in a Safe app with a secure way.
 
 **Resources:**
   * [Monerium](https://monerium.com/)
