@@ -21,7 +21,9 @@
   </a>
 </p>
 
-<h3 align="center">  
+<h3 align="center">
+  <a href="https://www.gnosis.builders/tools">Tools</a>
+  <span> · </span>
   <a href="https://www.gnosis.builders/developers">Developers</a>
   <span> · </span>
   <a href="https://www.gnosis.builders/users">Users</a>
