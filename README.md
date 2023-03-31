@@ -182,7 +182,7 @@ Useful guides
 
 Whether you're a developer, a designer, a researcher, or simply someone who is passionate about blockchain technology, we want to hear from you. Our goal is to create a truly decentralized and community-driven ecosystem that is accessible to everyone, so no matter your background or experience level, your contributions are valued and appreciated.
 
-So if you have an idea for improving the Gnosis Chain ecosystem, we encourage you to submit a proposal and join us on this exciting journey towards a more decentralized future. Thank you for considering participating in our community!
+So if you have an idea for improving the Gnosis Chain ecosystem, we encourage you to submit a proposal and join us on this exciting journey toward a more decentralized future. Thank you for considering contributing in our ecosystem!
 
 ***
       
