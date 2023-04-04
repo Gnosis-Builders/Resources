@@ -127,6 +127,7 @@ Useful guides
     * RPC Endpoint: [https://rpc.chiadochain.net](https://rpc.chiadochain.net)
     * Chain ID: 10200
     * Currency Symbol: xDAI
+    * Explorer: https://blockscout.com/gnosis/chiado
     * Alternatively you can auto-config your wallet by visiting [https://chainlist.org/chain/10200](https://chainlist.org/chain/10200)
 </details>
 
