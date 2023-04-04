@@ -77,6 +77,7 @@ Useful guides
   </summary>
   
 <br />
+
 - [Buy xDAI](https://buyxdai.com/) - Buy xDAI on Gnosis Chain through a range of trusted methods with both crypto and fiat as funding sources
 - [Buy GNO](https://buyxdai.com/gno) - Buy GNO on Gnosis Chain and Ethereum through a range of trusted methods with both crypto and fiat as funding sources
 - [d14n](https://d14n.info/) - Measuring Decentralization for Gnosis Chain and Ethereum
