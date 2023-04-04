@@ -90,6 +90,18 @@ Useful guides
 
 <details>
   <summary>
+    🚀 Directories
+  </summary>
+  
+<br />
+
+- [Gnosis Chain DAO Directory](https://www.daosongnosis.com/) - Explore all of the amazing DAOs and DAO tools built on top of Gnosis Chain to help decentralized communities coordinate and collaborate.
+- [Gnosis Chain DeFi Directory](https://www.gnosisdefi.com/) - Explore all of the amazing DeFi protocols and tools built on top of Gnosis Chain.
+
+</details>
+
+<details>
+  <summary>
     🎊 Recommended Things for Builders
   </summary>
   
