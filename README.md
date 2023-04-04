@@ -117,6 +117,7 @@ Useful guides
     * [https://rpc.chiado.gnosis.gateway.fm](https://rpc.chiado.gnosis.gateway.fm/)
     * [https://rpc.chiadochain.net](https://rpc.chiadochain.net/)
 - Gnosis Chain Recommended Bootnodes [https://docs.gnosischain.com/about/networks/mainnet/#config-repo](https://docs.gnosischain.com/about/networks/mainnet/#config-repo)
+- Gnosis Chain Gas Tracker [https://gnosisscan.io/gastracker](https://gnosisscan.io/gastracker)
 - Connect Your Wallet
   * Gnosis Chain mainnet
     * RPC Endpoint: [https://rpc.gnosischain.com](https://rpc.gnosischain.com/)
