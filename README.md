@@ -80,7 +80,7 @@ Useful guides
 
 - [Buy xDAI](https://buyxdai.com/) - Buy xDAI on Gnosis Chain through a range of trusted methods with both crypto and fiat as funding sources
 - [Buy GNO](https://buyxdai.com/gno) - Buy GNO on Gnosis Chain and Ethereum through a range of trusted methods with both crypto and fiat as funding sources
-- [d14n](https://d14n.info/) - Measuring Decentralization for Gnosis Chain and Ethereum
+- [d14n.info](https://d14n.info/) - Measuring Decentralization for Gnosis Chain and Ethereum
 - [Gnosis Chain Metrics Dashboard](https://www.gnosismetrics.com/) - Explore relevant analytics and metrics across the Gnosis Chain ecosystem
 - [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Easily choose supported wallets based on your preferred parameters
 - [Gnosis Faucet](https://gnosisfaucet.com/) - This faucet is the official xDai faucet for Gnosis Chain. Access the faucet to get a small amount of xDAI that can get you started in building and deploying transactions on Gnosis Chain. You can claim 0.01 xDAI on Gnosis mainnet and 0.1 xDAI on Chiado testnet via the faucet
