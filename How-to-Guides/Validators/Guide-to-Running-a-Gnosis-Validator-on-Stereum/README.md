@@ -88,7 +88,7 @@ To start validating Gnosis using Stereum, users will have to prepare the followi
 
 ## Home Server
 
-Coming soon!
+If you want to run a validator on the home server. You can follow this [Home Server preparation guide made by Stereum team](https://stereum.net/ethereum-node-setup/#stereum_guides) including step-by-step from create bootable USD drive and Ubuntu 22.04 preparation & installation.
 
 ## Cloud Server
 
