@@ -8,7 +8,7 @@ Regarding the [Requirement for Running a Node from Gnosis Chain Official Documen
 The recommended droplet used in this tutorial is 32 GB Memory - 600 GB Disk - Ubuntu 22.10 x64
 
 ### 2. Connect to your droplet
-Copy ipv4 address of your droplet. Open the terminal and type `ssh root@<YOUR_DROPLET_IPV4_ADDRESS>`
+Copy the ipv4 address of your droplet. Open the terminal and type `ssh root@<YOUR_DROPLET_IPV4_ADDRESS>`
 
 ### 3. Install DAppNode
 According to the [installation guide of the DAppNode](https://github.com/dappnode/DAppNode), because the droplet is running on Ubuntu, DAppNode will be installed with scripts by following these commands in [Install DAppNode with scripts](https://github.com/dappnode/DAppNode#install-dappnode-with-scripts) as follows
@@ -22,7 +22,7 @@ Script Installation
 ```sudo wget -O - https://installer.dappnode.io | sudo bash```
 
 ### 4. Initialize DAppNode aliases
-Once DAppNode has been successfully started in your machine, run `dappnode_help` to see the full list of commands available. If running `dappnode_help` shows command not found, you will need to add these aliases.
+Once DAppNode has been successfully started in your machine, run `dappnode_help` to see the full list of commands available. If running `dappnode_help` shows the command not found, you will need to add these aliases.
 ```
 $ alias
 alias dappnode_connect='docker exec -ti DAppNodeCore-vpn.dnp.dappnode.eth getAdminCredentials'
@@ -143,7 +143,7 @@ Once you have the validator public key, you need to claim these validator keys b
 
 ![image](https://user-images.githubusercontent.com/23649434/201823454-dd479504-bcc6-4aa2-8ba3-35df0ad4834f.png)
 
-Then, you click `Deposit`. Finally, you have successfully created your validator on Gnosis Chain. More detailed information can be referred to [https://docs.gnosischain.com/](https://docs.gnosischain.com/).
+Then, you click `Deposit`. Finally, you have successfully created your validator on Gnosis Chain. More detailed information can be referred at [https://docs.gnosischain.com/](https://docs.gnosischain.com/).
 
 
 ## How to contribute
