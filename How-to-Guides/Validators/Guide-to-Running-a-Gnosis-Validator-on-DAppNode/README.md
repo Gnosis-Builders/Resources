@@ -1,19 +1,17 @@
 # Guide to Running a Gnosis Validator on DAppNode
 
-This tutorial will show how to run a Gnosis Validator on DAppNode. Because this tutorial uses a cloud server as an example, you may use your own hardware at home to implement it by following the same procedure.
-
-This tutorial is available in [English](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-on-DAppNode), [Vietnamese](https://github.com/Gnosis-Builders/Resources/tree/main/How-to-Guides/Validators/Guide-to-Running-a-Gnosis-Validator-on-DAppNode/locales/VN).
+This tutorial will show how to run a Gnosis Validator on DAppNode. Because this tutorial uses a cloud server as an example, you may use your own hardware at home to implement it by following the same procedure or install DAppNode with ISO by following this [ISO installation guide](https://docs.dappnode.io/user/quick-start/core/installation/#iso-installation).
 
 ### 1. Create a Docker droplet on Cloud Service
-Regarding the [Requirement for Running a Node from Gnosis Chain Official Document](https://docs.gnosischain.com/node/#requirements), we recommend your node having a CPU with at least 4 threads, at least 16 GB of RAM and NVMe SSD (preferred) or SATA SSD. 
+Regarding the [Requirement for Running a Node from Gnosis Chain Official Document](https://docs.gnosischain.com/node/#requirements), we recommend your node have a CPU with at least 4 threads, at least 16 GB of RAM, and NVMe SSD (preferred) or SATA SSD. 
 
-The recommended droplet that used in this tutorial is 32 GB Memory / 600 GB Disk - Ubuntu 22.10 x64
+The recommended droplet used in this tutorial is 32 GB Memory - 600 GB Disk - Ubuntu 22.10 x64
 
 ### 2. Connect to your droplet
 Copy ipv4 address of your droplet. Open the terminal and type `ssh root@<YOUR_DROPLET_IPV4_ADDRESS>`
 
 ### 3. Install DAppNode
-According the [installation guide of the DAppNode](https://github.com/dappnode/DAppNode), because droplet is running on the Ubuntu, DAppNode will be installed with scripts by following these commands in [Install DAppNode with scripts](https://github.com/dappnode/DAppNode#install-dappnode-with-scripts) as below
+According to the [installation guide of the DAppNode](https://github.com/dappnode/DAppNode), because the droplet is running on Ubuntu, DAppNode will be installed with scripts by following these commands in [Install DAppNode with scripts](https://github.com/dappnode/DAppNode#install-dappnode-with-scripts) as follows
 
 Get Prerequisites
 
@@ -43,14 +41,14 @@ alias ls='ls --color=auto'
 ### 5. Install VPN - Wireguard VPN
 There are various ways to access the DAppNode including local proxy, wifi hotspot, VPN Connections, and CLI. This tutorial shows how to run a Gnosis Validator on the Cloud Service using DAppNode, the VPN method is mostly used while implementing on the Cloud service. OpenVPN and Wireguard are both available. However, this tutorial will show the guide for Wireguard due to the more convenient setup with commands on the Ubuntu VPS and more stable. 
 
-To install Wireguard in Ubuntu, you can follow by these commands:
+To install Wireguard in Ubuntu, you can follow these commands:
 ```
 sudo apt install wireguard
 ```
 
 In case your DAppNode doesn't show the information for connecting, you need to use the command ```dappnode_connect``` to show the details.
 
-You will get the information as below
+You will get the information below
 ```
 Connect to DAppNode through Wireguard using the following credentials:
 Preparing remote text Wireguard credentials; use CTRL + C to stop
@@ -69,12 +67,12 @@ AllowedIPs = <YourPeerAllowedIPs>
 
 ### 6. Connect to your DAppNode through VPN
 Following [the Wireguard installation guide](https://docs.dappnode.io/user-guide/ui/access/vpn/#linux) to install Wireguard on your computer, you need to create wg0 configure file ```sudo nano /etc/wireguard/wg0.conf``` and copy the configure information as above into your configuration file. 
-Finally, you need to use this command to start Wireguard: ```sudo wg-quick up wg0```. The terminal will be shown as below
+Finally, you need to use this command to start Wireguard: ```sudo wg-quick up wg0```. The terminal will be shown as follows
 
 ![image](https://user-images.githubusercontent.com/23649434/201591812-97c4bcb7-5760-485f-a7a3-62d5e8418d46.png)
 
 
-Then you can visit the http://my.dappnode on your browser as below
+Then you can visit the http://my.dappnode on your browser as follows
 
 ![image](https://user-images.githubusercontent.com/23649434/201589528-7b7edab0-f7f7-48fa-a656-f55b416cd505.png)
 
@@ -91,7 +89,7 @@ The image below shows the configured settings
 
 You also need to install Nethermind Xdai(Gnosis chain) as maintaining your own execution client.
 
-After installing successfully, the sync status are also available on the Dashboard. We recommend the use of Checkpoint sync to sync your node quickly, and avoid long range attacks. You can use checkpoint sync server at [https://checkpoint.gnosischain.com/](https://checkpoint.gnosischain.com/) provided by Gnosis or [https://checkpoint-sync-gnosis.dappnode.io/](https://checkpoint-sync-gnosis.dappnode.io/) provided by DAppNode.
+After installing successfully, the sync status is also available on the Dashboard. We recommend the use of Checkpoint sync to sync your node quickly, and avoid long-range attacks. You can use the checkpoint sync server at [https://checkpoint.gnosischain.com/](https://checkpoint.gnosischain.com/) provided by Gnosis or [https://checkpoint-sync-gnosis.dappnode.io/](https://checkpoint-sync-gnosis.dappnode.io/) provided by DAppNode.
 
 ### 8. Key Generator
 There are two methods for key generators.
@@ -145,7 +143,7 @@ Once you have the validator public key, you need to claim these validator keys b
 
 ![image](https://user-images.githubusercontent.com/23649434/201823454-dd479504-bcc6-4aa2-8ba3-35df0ad4834f.png)
 
-Then, you click `Deposit`. Finally, you have successfully created your validator on Gnosis Chain. More detailed information can be referred through [https://docs.gnosischain.com/](https://docs.gnosischain.com/).
+Then, you click `Deposit`. Finally, you have successfully created your validator on Gnosis Chain. More detailed information can be referred to [https://docs.gnosischain.com/](https://docs.gnosischain.com/).
 
 
 ## How to contribute
