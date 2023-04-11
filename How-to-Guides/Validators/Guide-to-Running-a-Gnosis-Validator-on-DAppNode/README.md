@@ -148,6 +148,3 @@ Then, you click `Deposit`. Finally, you have successfully created your validator
 
 ## How to contribute
 The primary purpose of this repository is to continue evolving developments for running a Gnosis Validator. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can participate in improving this tutorial.
-
-## License
-Guide to Running a Gnosis Validator on DAppNode is [MIT licensed](./LICENSE).
