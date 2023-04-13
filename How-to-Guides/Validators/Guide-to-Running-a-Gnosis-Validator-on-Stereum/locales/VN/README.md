@@ -85,7 +85,7 @@ Stereum cung cấp một cách nhanh chóng và dễ dàng để những staker 
 
 ## Home Server
 
-Coming soon!
+Để chạy Gnosis Validator tại nhà. Bạn có thể tham khảo [hướng dẫn cách chuẩn bị server tại nhà bởi Stereum](https://stereum.net/ethereum-node-setup/#stereum_guides) bao gồm các bước như cài đặt thiết bị boot và chuẩn bị Ubuntu server.
 
 ## Cloud Server
 
