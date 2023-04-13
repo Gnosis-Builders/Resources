@@ -82,7 +82,6 @@ Useful guides
 - [Buy GNO](https://buyxdai.com/gno) - Buy GNO on Gnosis Chain and Ethereum through a range of trusted methods with both crypto and fiat as funding sources
 - [d14n.info](https://d14n.info/) - Measuring Decentralization for Gnosis Chain and Ethereum
 - [Gnosis Chain Metrics Dashboard](https://www.gnosismetrics.com/) - Explore relevant analytics and metrics across the Gnosis Chain ecosystem
-- [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Easily choose supported wallets based on your preferred parameters
 - [Gnosis Faucet](https://gnosisfaucet.com/) - This faucet is the official xDai faucet for Gnosis Chain. Access the faucet to get a small amount of xDAI that can get you started in building and deploying transactions on Gnosis Chain. You can claim 0.01 xDAI on Gnosis mainnet and 0.1 xDAI on Chiado testnet via the faucet
 - [Validate Gnosis](https://www.validategnosis.com/) - Learn how to validate Gnosis! Validate Gnosis provides step-by-step setup guides that walk you through the process to help you get up and running smoothly
 - [mGNO Validator Deposit](https://mgno.validategnosis.com/) - The mGNO Converter allows users to convert GNO into mGNO. This mGNO token can be staked on validator nodes
@@ -98,6 +97,7 @@ Useful guides
 
 - [Gnosis Chain DAO Directory](https://www.daosongnosis.com/) - Explore all of the amazing DAOs and DAO tools built on top of Gnosis Chain to help decentralized communities coordinate and collaborate.
 - [Gnosis Chain DeFi Directory](https://www.gnosisdefi.com/) - Explore all of the amazing DeFi protocols and tools built on top of Gnosis Chain.
+- [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Select a wallet so you can start transacting on Gnosis Chain. There are many different wallets to choose from with lots of additional features. This page will help you find one that fits your needs based on the features you want.
 
 </details>
 
