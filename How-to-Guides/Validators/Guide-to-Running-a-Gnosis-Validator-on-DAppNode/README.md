@@ -94,29 +94,7 @@ After installing successfully, the sync status is also available on the Dashboar
 ### 8. Key Generator
 There are two methods for key generators.
 
-1. The first method is using Docker to generate keystores and spin up clients. Based on the official guide of [Step 1) Generate Validator Account(s) and Deposit Data](https://docs.gnosischain.com/node/consensus-layer-validator#step-1-generate-validator-accounts-and-deposit-data). Please follow these commands step by step for generating your Keystores
-
-Download the Key Generator
-
-```
-cd
-sudo docker pull ghcr.io/gnosischain/validator-data-generator:latest
-```
-
-Create a Folder for Your Key Storage
-```
-mkdir home/<your_username>/vkeys
-```
-
-Run the Generator to Create Keystores by changing `/home/<your_username>/`, NUM, WITHDRAWAL_ADDRESS
-```
-docker run -it --rm -v /home/<your_username>/validator_keys:/app/validator_keys \
-  ghcr.io/gnosischain/validator-data-generator:latest new-mnemonic \
-  --num_validators=NUM --mnemonic_language=english \
-  --folder=/app/validator_keys --eth1_withdrawal_address=WITHDRAWAL_ADDRESS
-```
-
-Then, you will get the deposit_data*.json and keystores in the /home/<your_username>/validator_keys
+1. The first method is using the Command Line Tool. You can refer to this [official Command Line Tool guide by Gnosis Chain](https://docs.gnosischain.com/node/guide/validator/generate-keys/cli/) step-by-step.
 
 2. The second method is using the Gnosis Wagyu KeyGen.
 
