@@ -55,6 +55,7 @@ Useful workshop materials
 - [Web3 Beginner Workshop #2 - Deploying a DAO on Gnosis Chain](https://github.com/Gnosis-Builders/gc-workshops/tree/main/DAO-Tutorial)
 - [Web3 Beginner Workshop #3 - Introduction to Building on Gnosis Chain (Vietnamese)](https://youtu.be/91fF1fL574s)
 - [Gnosis Chain Validator Workshop - How to run validators with Stereum](https://youtu.be/een_pYwCM8I)
+- [Build on Gnosis Chain Workshop: Deploying Smart Contracts with Cookbook](https://youtu.be/pDzkWpclCnM)
 </details>
 
 <details>
