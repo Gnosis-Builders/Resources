@@ -97,6 +97,7 @@ Useful guides
 
 - [Gnosis Chain DAO Directory](https://www.daosongnosis.com/) - Explore all of the amazing DAOs and DAO tools built on top of Gnosis Chain to help decentralized communities coordinate and collaborate.
 - [Gnosis Chain DeFi Directory](https://www.gnosisdefi.com/) - Explore all of the amazing DeFi protocols and tools built on top of Gnosis Chain.
+- [Gnosis Chain NFT and Gaming Directory](https://www.nftsongnosis.com/) - Explore all of the amazing NFT and Gaming projects and tools built on top of Gnosis Chain.
 - [Gnosis Chain Wallet Finder](https://gnosiswallets.com/) - Select a wallet so you can start transacting on Gnosis Chain. There are many different wallets to choose from with lots of additional features. This page will help you find one that fits your needs based on the features you want.
 
 </details>
