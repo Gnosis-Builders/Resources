@@ -115,9 +115,11 @@ Useful guides
   * Mainnet: 
     * [https://rpc.gnosis.gateway.fm](https://rpc.gnosis.gateway.fm)
     * [https://rpc.gnosischain.com](https://rpc.gnosischain.com)
+    * wss://rpc.gnosischain.com/wss
   * Chiado Testnet:
     * [https://rpc.chiado.gnosis.gateway.fm](https://rpc.chiado.gnosis.gateway.fm/)
     * [https://rpc.chiadochain.net](https://rpc.chiadochain.net/)
+    * wss://rpc.chiadochain.net/wss
 - Gnosis Chain Recommended Bootnodes [https://docs.gnosischain.com/about/networks/mainnet/#config-repo](https://docs.gnosischain.com/about/networks/mainnet/#config-repo)
 - Gnosis Chain Gas Tracker [https://gnosisscan.io/gastracker](https://gnosisscan.io/gastracker)
 - Connect Your Wallet
