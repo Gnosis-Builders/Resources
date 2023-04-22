@@ -2,10 +2,7 @@
 
 This file will be used to track all current issues regarding setting up a validator node for Gnosis Chain.
 
-### Issue 1: Official Gnosis website not linking to the proper documentation to setup validator node.
-In the [Official Gnosis Chain website for Validators](https://www.gnosis.io/validators), currently the link for `Start Validating Today` leads the user to a Page Not Found [link](https://docs.gnosischain.com/node/get-started). Users will have to navigate through the website again to locate the proper documenation for running up a node, which can be found [here](https://docs.gnosischain.com/node/).
-
-### Issue 2: Mistake within the Official Gnosis Chain documentation site.
+### Issue 1: Mistake within the Official Gnosis Chain documentation site.
 For users looking to setup their own dedicated node to start validating for Gnosis Chain, the instruction for `docker-compose.yml` in [here](https://docs.gnosischain.com/node/guide/validator/run/lighthouse) is incorrect. At line 20, where the data directory flag `--datadir` is set to `/data/validators`, it should be set to `/data` instead. The correct settings for the `validator` container in `docker-compose.yml` file should be as follows:
 ```
 validator:
@@ -36,7 +33,7 @@ validator:
       driver: "local"
 ```
 
-### Issue 3: DAppNode commands not working after installation
+### Issue 2: DAppNode commands not working after installation
 For users running DAppNode on cloud services (Digital Ocean, Google Cloud, etc), once DAppNode has been successfully started, DAppNode commands such as `dappnode_help` or `dappnode_connect` shows `command not found` in the command line. This requires users to setup the DAppNode aliases in the later step:
 ```
 $ alias
