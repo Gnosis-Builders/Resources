@@ -7,8 +7,9 @@
 </h1>
 
 <p align="center">
-  <strong>A new era for Gnosis Chain. Gnosis Builders support the development tools, resources and programs to advance the ecosystem.</strong><br>
-  These are the curated list of awesome resources created by Gnosis Builders around the world.
+  <strong>A new era for Gnosis Chain</strong>
+  <br>
+  Gnosis Builders is the ecosystem team for Gnosis Chain. Our mission is to make Gnosis Chain the most credibly neutral chain buttressed by a highly decentralized validator network.
 </p>
 
 <p align="center">
