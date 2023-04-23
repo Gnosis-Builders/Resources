@@ -123,6 +123,7 @@ Useful guides
     * wss://rpc.chiadochain.net/wss
 - Gnosis Chain Recommended Bootnodes [https://docs.gnosischain.com/about/networks/mainnet/#config-repo](https://docs.gnosischain.com/about/networks/mainnet/#config-repo)
 - Gnosis Chain Gas Tracker [https://gnosisscan.io/gastracker](https://gnosisscan.io/gastracker)
+- xDai Bridge [https://bridge.gnosischain.com/](https://bridge.gnosischain.com/)
 - Connect Your Wallet
   * Gnosis Chain mainnet
     * RPC Endpoint: [https://rpc.gnosischain.com](https://rpc.gnosischain.com/)
