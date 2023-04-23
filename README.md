@@ -61,7 +61,7 @@ Useful workshop materials
 
 <details>
   <summary>
-    <h3>📋 How-to-Guides </h3>
+    📋 How-to-Guides 
   </summary>
 
 <br />
