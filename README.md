@@ -187,7 +187,7 @@ Useful guides
   * Build an end-to-end application on top of Hashi (Token bridge, NFT bridge, Governance bridge, etc)
 
 **Resources:**
-  * [Hashi 橋  - An EVM Header Oracle Aggregator](https://github.com/gnosis/hashi)
+  * [Hashi 橋  - An EVM Hash Oracle Aggregator](https://github.com/gnosis/hashi)
 
 ***
 
