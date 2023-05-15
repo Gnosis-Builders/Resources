@@ -58,6 +58,7 @@ Useful workshop materials
 - [Gnosis Chain Validator Workshop - How to run validators with Stereum](https://youtu.be/een_pYwCM8I)
 - [Gnosis Chain Validator Workshop by Dappnode & Gnosis Builders](https://youtu.be/NvxZaIgdSZk)
 - [Build on Gnosis Chain Workshop: Deploying Smart Contracts with Cookbook](https://youtu.be/pDzkWpclCnM)
+- [Gnosis Chain 🛠 Building on Gnosis Chain and Hashi - Auryn Macmillan](https://youtu.be/QxfpjF6g2u8)
 </details>
 
 <details>
