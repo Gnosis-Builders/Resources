@@ -176,7 +176,7 @@ Useful guides
 
 ***
 
-**[4] An EVM Header Oracle Aggregator**
+**[4] An EVM Hash Oracle Aggregator**
 
 **Project Description:** Hashi is an EVM Header Oracle Aggregator, designed to facilitate a principled approach to cross-chain bridge security. The primary insight is that the vast majority of bridge-related security incidents could have had a minimal impact if the systems relying on them had built in some redundancy. In other words, it's much more secure to require messages to be validated by multiple independent mechanisms, rather than by just one. This topic allows you to propose your ideas to build on top of an EVM Header Oracle Aggregator.
 
