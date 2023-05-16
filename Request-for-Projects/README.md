@@ -40,6 +40,8 @@
 
 **Resources:**
   * [Hashi 橋  - An EVM Hash Oracle Aggregator](https://github.com/gnosis/hashi)
+  * Intro discussion: [https://ethresear.ch/t/hashi-a-principled-approach-to-bridges/](https://ethresear.ch/t/hashi-a-principled-approach-to-bridges/)
+  * Ask questions on the Gnosis Chain discord - #hashi channel
 
 ***
 
