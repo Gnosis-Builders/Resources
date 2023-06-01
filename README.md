@@ -125,7 +125,7 @@ Useful guides
     * wss://rpc.chiadochain.net/wss
 - Gnosis Chain Recommended Bootnodes [https://docs.gnosischain.com/about/networks/mainnet/#config-repo](https://docs.gnosischain.com/about/networks/mainnet/#config-repo)
 - Gnosis Chain Gas Tracker [https://gnosisscan.io/gastracker](https://gnosisscan.io/gastracker)
-- [The Graph](https://docs.gnosischain.com/tools/analytics/the-graph) is a decentralized protocol for indexing and querying chain data, support Gnosis. 
+- The Graph is a decentralized protocol for indexing and querying chain data, support Gnosis. [https://docs.gnosischain.com/tools/analytics/the-graph](https://docs.gnosischain.com/tools/analytics/the-graph)
 - xDai Bridge [https://bridge.gnosischain.com/](https://bridge.gnosischain.com/)
 - Connect Your Wallet
   * Gnosis Chain mainnet
