@@ -69,8 +69,23 @@ AllowedIPs = <YourPeerAllowedIPs>
 Following [the Wireguard installation guide](https://docs.dappnode.io/user-guide/ui/access/vpn/#linux) to install Wireguard on your computer, you need to create wg0 configure file ```sudo nano /etc/wireguard/wg0.conf``` and copy the configure information as above into your configuration file. 
 Finally, you need to use this command to start Wireguard: ```sudo wg-quick up wg0```. The terminal will be shown as follows
 
-![image](https://user-images.githubusercontent.com/23649434/201591812-97c4bcb7-5760-485f-a7a3-62d5e8418d46.png)
+```
+[#] ip link add wg0 type wireguard
+[#] wg setconf wg0 /dev/fd/63
+[#] ip -4 address add 10.24.0.2 dev wg0
+[#] ip link set mtu 1412 up dev wg0
+[#] resolvconf -a tun.wg0 -m 0 -x
+[#] ip -4 route add 10.20.0.0/24 dev wg0
+[#] ip -4 route add 172.33.0.0/16 dev wg0
+```
 
+In addition, when you run the command ```sudo wg```, you will get this message as follows in the terminal
+```
+interface: wg0
+  publickey: <public_key>
+  privatekey: (hidden)
+  listening port: 51820
+```
 
 Then you can visit the http://my.dappnode on your browser as follows
 
