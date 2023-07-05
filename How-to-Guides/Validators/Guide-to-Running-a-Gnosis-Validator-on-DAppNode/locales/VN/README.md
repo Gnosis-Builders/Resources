@@ -69,8 +69,24 @@ AllowedIPs = <YourPeerAllowedIPs>
 Dựa theo [Wireguard installation guide](https://docs.dappnode.io/user-guide/ui/access/vpn/#linux) để cài đặt Wireguard trên máy tính của bạn, bạn cần thiết lập wg0 configure file ```sudo nano /etc/wireguard/wg0.conf``` và sao chép thông tin thiết lập ở mục 4 vào file thiết lập này. 
 Sau đó, bạn chỉ cần khởi chạy Wireguard thông qua dòng lệnh: ```sudo wg-quick up wg0```. Bạn sẽ có được kết quả như phía dưới đây.
 
-![image](https://user-images.githubusercontent.com/23649434/201591812-97c4bcb7-5760-485f-a7a3-62d5e8418d46.png)
+```
+[#] ip link add wg0 type wireguard
+[#] wg setconf wg0 /dev/fd/63
+[#] ip -4 address add 10.24.0.2 dev wg0
+[#] ip link set mtu 1412 up dev wg0
+[#] resolvconf -a tun.wg0 -m 0 -x
+[#] ip -4 route add 10.20.0.0/24 dev wg0
+[#] ip -4 route add 172.33.0.0/16 dev wg0
+```
 
+Ngoài ra, khi chạy ```sudo wg```, bạn sẽ thấy phần sau trong terminal
+
+```
+interface: wg0
+  publickey: <public_key>
+  privatekey: (hidden)
+  listening port: 51820
+```
 
 Sau đó bạn hãy truy cập website http://my.dappnode trên trình duyệt của bạn.
 
