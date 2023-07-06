@@ -67,24 +67,33 @@ AllowedIPs = <YourPeerAllowedIPs>
 
 ### 6. Connect to your DAppNode through VPN
 Following [the Wireguard installation guide](https://docs.dappnode.io/user-guide/ui/access/vpn/#linux) to install Wireguard on your computer, you need to create wg0 configure file ```sudo nano /etc/wireguard/wg0.conf``` and copy the configure information as above into your configuration file. 
-Finally, you need to use this command to start Wireguard: ```sudo wg-quick up wg0```. The terminal will be shown structure as follows
+Finally, you need to use this command to start Wireguard: ```sudo wg-quick up wg0```. You will receive output like the following
 
 ```
+Output:
 [#] ip link add wg0 type wireguard
 [#] wg setconf wg0 /dev/fd/63
-[#] ip -4 address add 10.24.0.2 dev wg0
+[#] ip -4 address add <IPv4 addresses> dev wg0
 [#] ip link set mtu 1412 up dev wg0
 [#] resolvconf -a tun.wg0 -m 0 -x
-[#] ip -4 route add 10.20.0.0/24 dev wg0
-[#] ip -4 route add 172.33.0.0/16 dev wg0
+[#] ip -4 route add <IPv4 addresses> dev wg0
+[#] ip -4 route add <IPv4 addresses> dev wg0
 ```
 
-In addition, when you run the command ```sudo wg```, you will get this message as follows in the terminal
+The status of the tunnel on the peer can check via the command ```sudo wg0```
+
 ```
+Output:
 interface: wg0
-  publickey: <public_key>
-  privatekey: (hidden)
-  listening port: 51820
+  public key: <public_key>
+  private key: (hidden)
+  listening port: <listening_port>
+
+peer: <peer>
+  endpoint: <endpoint>
+  allowed ips: <allowed_ips>
+  latest handshake: 1 second ago
+  transfer: 6.28 KiB received, 3.94 KiB sent
 ```
 
 Then you can visit the http://my.dappnode on your browser as follows
