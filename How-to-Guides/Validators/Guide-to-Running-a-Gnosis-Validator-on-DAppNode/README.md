@@ -102,51 +102,10 @@ Then you can visit the http://my.dappnode on your browser as follows
 
 You can refer to this guide as [Initial Configurations for the DAppNode](https://docs.dappnode.io/first-steps#)
 
-### 7. Setting up Gnosis Validator on DAppNode
-From the Admin UI, please visit DAppStore and search Gnosis Beacon Chain Prysm.
+### 7. Setting up Gnosis Beacon Chain (GBC) Validator on DAppNode
 
-![image](https://user-images.githubusercontent.com/23649434/201592661-9111180f-3ab3-49d8-a1ca-c67fa53e5cb2.png)
-
-The image below shows the configured settings
-
-![image](https://user-images.githubusercontent.com/23649434/201593138-663c57bc-5351-41f7-a786-817e4e1a8bcb.png)
-
-You also need to install Nethermind Xdai(Gnosis chain) as maintaining your own execution client.
-
-After installing successfully, the sync status is also available on the Dashboard. We recommend the use of Checkpoint sync to sync your node quickly, and avoid long-range attacks. You can use the checkpoint sync server at [https://checkpoint.gnosischain.com/](https://checkpoint.gnosischain.com/) provided by Gnosis or [https://checkpoint-sync-gnosis.dappnode.io/](https://checkpoint-sync-gnosis.dappnode.io/) provided by DAppNode.
-
-### 8. Key Generator
-There are two methods for key generators.
-
-1. The first method is using the Command Line Tool. You can refer to this [official Command Line Tool guide by Gnosis Chain](https://docs.gnosischain.com/node/guide/validator/generate-keys/cli/) step-by-step.
-
-2. The second method is using the Gnosis Wagyu KeyGen.
-
-Install the Gnosis Wagyu Key Gen using this [link](https://github.com/alexpeterson91/Gnosis-Wagyu-Key-Gen/releases). Then, open the Gnosis Wagyu Key Gen and complete Create Secret Recovery Phrase, Configure Validator Keys as in the image below.
-
-Following step by step
-![image](https://user-images.githubusercontent.com/23649434/201819925-3e318c83-798f-4397-b860-71f857898804.png)
-
-Then, you can create validator key files as in the image below.
-![image](https://user-images.githubusercontent.com/23649434/201820812-5119f61f-c096-4b8d-b4d4-aec960ae7f6f.png)
-
-
-### 9. Configure Keystores to Web3signer Gnosis package on DAppNode
-Regarding the new version of DAppNode, you can install the Web3Signer using the following documentation [https://docs.dappnode.io/user/guides/validation-muticlient/](https://docs.dappnode.io/user/guides/validation-muticlient)
-
-Navigate [http://ui.web3signer-gnosis.dappnode/](http://ui.web3signer-gnosis.dappnode/). Then, you need to import keystores from the file that you have created in the previous step.
-
-Finally, you will have the validator public key as the image below and you can also check your validator public key through the website https://beacon.gnosischain.com/validator/<your_validator_publickey>
-
-![image](https://user-images.githubusercontent.com/23649434/201821914-47f9279a-91c2-4dc1-9c86-49dbff4cba78.png)
-
-### 10. Claim your validator
-Once you have the validator public key, you need to claim these validator keys by depositing 1 GNO per validator. Navigate [https://deposit.gnosischain.com/](https://deposit.gnosischain.com/) and connect with your wallet. Then, you need to upload the deposit_data*.json that you generated in section 7.
-
-![image](https://user-images.githubusercontent.com/23649434/201823454-dd479504-bcc6-4aa2-8ba3-35df0ad4834f.png)
-
-Then, you click `Deposit`. Finally, you have successfully created your validator on Gnosis Chain. More detailed information can be referred at [https://docs.gnosischain.com/](https://docs.gnosischain.com/).
-
+We will now configure and set up DAppNode on your cloud server so that we can start validating for Gnosis Chain. You can follow the steps below to set up your validator(s).
+Learn how to setup DAppNode via this online documentation [https://docs.gnosischain.com/node/tools/dappnode](https://docs.gnosischain.com/node/tools/dappnode)
 
 ## How to contribute
 The primary purpose of this repository is to continue evolving developments for running a Gnosis Validator. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can participate in improving this tutorial.
