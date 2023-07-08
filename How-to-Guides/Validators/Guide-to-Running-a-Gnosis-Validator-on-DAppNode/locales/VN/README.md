@@ -95,45 +95,5 @@ Sau đó bạn hãy truy cập website http://my.dappnode trên trình duyê
 Bạn có thể tham khảo những bước cấu hình DAppNode đầu tiên tại đây [Initial Configurations for the DAppNode](https://docs.dappnode.io/first-steps#)
 
 ### 7. Cài đặt Gnosis Validator trên DAppNode
-Thông qua Admin UI, bạn vui lòng truy cập DAppStore và tìm kiếm Gnosis Beacon Chain Prysm.
-
-![image](https://user-images.githubusercontent.com/23649434/201592661-9111180f-3ab3-49d8-a1ca-c67fa53e5cb2.png)
-
-Ảnh phía dưới thể hiện cấu hình chi tiết
-
-![image](https://user-images.githubusercontent.com/23649434/201593138-663c57bc-5351-41f7-a786-817e4e1a8bcb.png)
-
-Bạn cần cài đặt Nethermind Xdai(Gnosis chain) để duy trì trình thực thi.
-
-Sau khi cài đặt thành công, trạng thái đồng bộ hóa sẽ được hiển thị trên bảng điều khiển.
-
-### 8. Tạo Khóa
-Hướng dẫn này có 2 phương pháp để tạo khóa.
-
-1. Phương pháp thứ nhất là sử dụng Command Line Tool.
-Bạn có thể tham khảo [hướng dẫn chính thức từ Gnosis Chain để tạo khóa thông qua Command Line Tool tại đây](https://docs.gnosischain.com/node/guide/validator/generate-keys/cli/)
-
-2. Phương pháp thứ 2 là sử dụng Gnosis Wagyu Key Gen.
-
-Cài đặt Gnosis Wagyu Key Gen thông qua [link](https://github.com/alexpeterson91/Gnosis-Wagyu-Key-Gen/releases). Sau đó, mở Gnosis Wagyu Key Gen và hoàn thành các bước Create Secret Recovery Phrase, Configure Validator Keys như ảnh phía dưới.
-
-Thực hiện từng bước, chúng ta sẽ có
-![image](https://user-images.githubusercontent.com/23649434/201819925-3e318c83-798f-4397-b860-71f857898804.png)
-
-Sau đó, bạn có thể tạo Validator Key như hình bên dưới
-![image](https://user-images.githubusercontent.com/23649434/201820812-5119f61f-c096-4b8d-b4d4-aec960ae7f6f.png)
-
-
-### 9. Thiết lập Keystores trên Web3signer Gnosis package
-Truy cập [http://ui.web3signer-gnosis.dappnode/](http://ui.web3signer-gnosis.dappnode/). Sau đó, bạn cần tải lên keystores từ file bạn đã tạo ở bước phía trước.
-Cuối cùng, bạn có validator public key như hình ảnh phía dưới và bạn có thể kiểm tra validator public key thông qua website của Gnosischain. https://beacon.gnosischain.com/validator/<your_validator_publickey>
-
-![image](https://user-images.githubusercontent.com/23649434/201821914-47f9279a-91c2-4dc1-9c86-49dbff4cba78.png)
-
-### 10. Triển khai validator của bạn
-Khi bạn đã có validator public key, bạn cần triển khai validator hoạt động bằng cách gửi 1GNO trên 1 validator. Truy cập website [https://deposit.gnosischain.com/](https://deposit.gnosischain.com/) và kết nối với ví của bạn. Sau đó, bạn có thể tải lên deposit_data*.json đã tạo ở bước số 7.
-
-![image](https://user-images.githubusercontent.com/23649434/201823454-dd479504-bcc6-4aa2-8ba3-35df0ad4834f.png)
-
-Sau đó, bạn thực hiện `Deposit`. Cuối cùng, bạn đã tạo Gnosis Validator thành công. Mọi thông tin chi tiết có thể tham khao thêm thông qua tài liệu chính thức của Gnosis Chain [https://docs.gnosischain.com/](https://docs.gnosischain.com/).
+Bây giờ chúng tôi sẽ định cấu hình và thiết lập DAppNode trên máy chủ đám mây của bạn để chúng tôi có thể bắt đầu xác thực cho Gnosis Chain. Bạn có thể làm theo các bước bên dưới để thiết lập (các) trình xác thực của mình. Tìm hiểu cách thiết lập DAppNode qua tài liệu trực tuyến này [https://docs.gnosischain.com/node/tools/dappnode](https://docs.gnosischain.com/node/tools/dappnode)
 
